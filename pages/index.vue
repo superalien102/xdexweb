@@ -447,12 +447,12 @@ export default {
       ],
       accordions: [
         {
-          title: 'Why should I choose NEFA?',
+          title: 'Why should I choose XDEXT?',
           description:
             "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over 8 million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features.",
         },
         {
-          title: 'How secure is NEFA?',
+          title: 'How secure is XDEXT?',
           description:
             "We're industry pioneers, having been in the cryptocurrency industry since 2016. We've facilitated more than 21 billion USD worth of transactions on our exchange for customers in over 40 countries. Today, we're trusted by over million customers around the world and have received praise for our easy-to-use app, secure wallet, and range of features.",
         },
