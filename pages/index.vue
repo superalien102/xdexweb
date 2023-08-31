@@ -5,17 +5,17 @@
       <BaseSection>
         <div class="col-span-12 lg:col-span-6 mt-12 xl:mt-10 space-y-4 sm:space-y-6 px-6 text-center sm:text-left">
           <span data-aos="fade-right" data-aos-once="true" class="text-base text-gradient font-semibold uppercase"
-            >Sign Up Today</span
+            >XDEXTools platform</span
           >
           <h1
             data-aos="fade-right"
             data-aos-once="true"
             class="text-[2.5rem] sm:text-5xl xl:text-6xl font-bold leading-tight capitalize sm:pr-8 xl:pr-10"
           >
-            The World's <span class="text-header-gradient">Fastest Growing</span> Crypto Web App
+            The World's leading of<span class="text-header-gradient">AI DeFI platform</span> in Crypto Space
           </h1>
           <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="paragraph hidden sm:block">
-            Buy and sell 200+ cryptocurrencies with 20+ flat currencies using bank transfers or your credit/debit card.
+            Buy and sell cryptocurrencies easy with 20+ flat currencies using bank transfers or your credit/debit card.
           </p>
           <div
             data-aos="fade-up"
@@ -232,19 +232,19 @@
           <ul class="space-y-8 sm:space-y-4">
             <LandingListItem title="Safety, security and compliance">
               <p class="text-sm text-gray-700 leading-relaxed">
-                NEFA is a licensed New York trust company that undergoes regular bank exams and is subject to the
+                XDEXT is a licensed New York trust company that undergoes regular bank exams and is subject to the
                 cybersecurity audits conducted by the New York Department of Financial Services.
                 <span class="underline">Learn more</span> about our commitment to security.
               </p>
             </LandingListItem>
             <LandingListItem title="Hardware security keys">
               <p class="text-sm text-gray-700 leading-relaxed">
-                With NEFA you can secure your account with a hardware security key via WebAuthn.
+                With XDEXT you can secure your account with a hardware security key via WebAuthn.
               </p>
             </LandingListItem>
             <LandingListItem title="SOC Certifications">
               <p class="text-sm text-gray-700 leading-relaxed">
-                NEFA is <span class="underline">SOC 1 Type 2</span> and
+                XDEXT is <span class="underline">SOC 1 Type 2</span> and
                 <span class="underline">SOC 2 Type 2</span> compliant. We are the world’s first cryptocurrency exchange
                 and custodian to complete these exams.
               </p>
@@ -472,13 +472,13 @@ export default {
           img: 'sign-up.png',
           title: 'Sign Up',
           description:
-            'Sign up for your free NEFA Wallet on web, iOS or Android and follow our easy process to set up your profile',
+            'Sign up for your free XDEXT Wallet on web, iOS or Android and follow our easy process to set up your profile',
         },
         {
           img: 'fund.png',
           title: 'Fund',
           description:
-            'Choose your preferred payment method such as bank transfer or credit card to top up your NEFA Wallet',
+            'Choose your preferred payment method such as bank transfer or credit card to top up your XDEXT Wallet',
         },
         {
           img: 'buy-crypto.png',
