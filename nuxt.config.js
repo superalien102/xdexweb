@@ -1,6 +1,6 @@
 export default {
   head: {
-    title: 'XDEX',
+    title: 'XDEXTools',
     htmlAttrs: {
       lang: 'en',
     },
