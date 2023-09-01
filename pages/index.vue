@@ -12,7 +12,7 @@
             data-aos-once="true"
             class="text-[2.5rem] sm:text-5xl xl:text-6xl font-bold leading-tight capitalize sm:pr-8 xl:pr-10"
           >
-            The World's leading of<span class="text-header-gradient">AI DeFI platform</span> in Crypto Space
+            The World's leading of <span class="text-header-gradient">DeFI platform</span> in Crypto Space
           </h1>
           <p data-aos="fade-down" data-aos-once="true" data-aos-delay="300" class="paragraph hidden sm:block">
             Buy and sell cryptocurrencies easy with 20+ flat currencies using bank transfers or your credit/debit card.
@@ -23,17 +23,17 @@
             data-aos-delay="700"
             class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-2"
           >
-            <BaseButton
+            <!-- <BaseButton
               class="max-w-full px-8 py-4 bg-gradient-to-r from-[#468ef9] to-[#0c66ee] border border-[#0c66ee] text-white"
             >
               Trading Now
-            </BaseButton>
-            <!-- <BaseButton
+            </BaseButton> -->
+            <BaseButton
               class="max-w-full px-6 py-4 bg-inherit text-gradient border border-[#0c66ee] flex items-center justify-center"
             >
-              <span>Download App</span>
-              <ChevronDownIcon :size="20" class="mt-1 text-[#0c66ee]" />
-            </BaseButton> -->
+              <span>Trading Now</span>
+              <!-- <ChevronDownIcon :size="20" class="mt-1 text-[#0c66ee]" /> -->
+            </BaseButton>
           </div>
         </div>
         <div class="hidden sm:block col-span-12 lg:col-span-6">
