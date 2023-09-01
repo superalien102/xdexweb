@@ -53,11 +53,11 @@
         </ul>
       </div>
       <div :class="[open ? 'flex' : 'hidden lg:flex']" class="space-x-3">
-        <base-button class="px-8 xl:px-10 py-3 mt-2 bg-inherit text-gradient border border-[#0c66ee]">
+        <!-- <base-button class="px-8 xl:px-10 py-3 mt-2 bg-inherit text-gradient border border-[#0c66ee]">
           Login
-        </base-button>
+        </base-button> -->
         <base-button class="px-8 xl:px-10 py-3 mt-2 bg-gradient-to-r from-[#468ef9] to-[#0c66ee] text-white">
-          Sign Up
+          Trading Now
         </base-button>
       </div>
     </div>

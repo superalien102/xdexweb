@@ -26,14 +26,14 @@
             <BaseButton
               class="max-w-full px-8 py-4 bg-gradient-to-r from-[#468ef9] to-[#0c66ee] border border-[#0c66ee] text-white"
             >
-              Get Started
+              Trading Now
             </BaseButton>
-            <BaseButton
+            <!-- <BaseButton
               class="max-w-full px-6 py-4 bg-inherit text-gradient border border-[#0c66ee] flex items-center justify-center"
             >
               <span>Download App</span>
               <ChevronDownIcon :size="20" class="mt-1 text-[#0c66ee]" />
-            </BaseButton>
+            </BaseButton> -->
           </div>
         </div>
         <div class="hidden sm:block col-span-12 lg:col-span-6">
@@ -75,7 +75,7 @@
     </section>
 
     <!-- Crypto statistic section -->
-    <section
+    <!-- <section
       class="max-w-screen-xl mx-2 sm:mx-auto px-4 sm:px-6 lg:px-0 py-6 pb-20 sm:py-8 rounded-[2.25rem] sm:rounded-xl bg-white shadow-lg sm:shadow-md transform lg:-translate-y-12"
     >
       <div class="w-full flex flex-col lg:flex-row items-center justify-center">
@@ -100,7 +100,7 @@
           class="lg:px-8"
         />
       </div>
-    </section>
+    </section> -->
 
     <!-- Buy and trade section -->
     <section class="w-full my-24">
@@ -139,7 +139,7 @@
     </section>
 
     <!-- Partners section -->
-    <section class="bg-partner relative max-w-full sm:mx-6 my-24 shadow sm:rounded-2xl overflow-hidden">
+    <!-- <section class="bg-partner relative max-w-full sm:mx-6 my-24 shadow sm:rounded-2xl overflow-hidden">
       <div class="w-full px-6 sm:px-0 py-16 flex flex-col items-center justify-center space-y-4 text-center">
         <h3 data-aos="flip-down" class="text-2xl text-neutral-800 font-semibold">Trusted Partners Worldwide</h3>
         <p data-aos="flip-down" class="paragraph">We're partners with countless major organisations around the globe</p>
@@ -151,10 +151,10 @@
           />
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Credit card section -->
-    <section class="w-full my-36">
+   <!--  <section class="w-full my-36">
       <BaseSection data-aos="fade-down">
         <div class="col-span-12 lg:col-span-7">
           <div class="w-full">
@@ -177,7 +177,7 @@
           >
         </div>
       </BaseSection>
-    </section>
+    </section> -->
 
     <!-- Advanced trading tools section -->
     <section class="bg-trading-tools relative max-w-full sm:mx-4 my-20 py-16 shadow rounded-2xl overflow-hidden">
@@ -193,10 +193,10 @@
             </p>
           </div>
           <div class="space-y-2">
-            <h4 class="text-lg font-medium">A Range of Powerful Apis</h4>
+            <h4 class="text-lg font-medium">A Range of Powerful Apis & Trading Bots</h4>
             <p class="paragraph text-sm xl:text-base">
               Set up your own trading interface or deploy your algorithmic strategy with our high-performance FIX and
-              HTTP APIs. Connect to our WebSocket for real-time data streaming.
+              HTTP APIs, AI trading Bots. Connect to our WebSocket for real-time data streaming.
             </p>
           </div>
           <div class="space-y-2">
@@ -232,8 +232,7 @@
           <ul class="space-y-8 sm:space-y-4">
             <LandingListItem title="Safety, security and compliance">
               <p class="text-sm text-gray-700 leading-relaxed">
-                XDEXT is a licensed New York trust company that undergoes regular bank exams and is subject to the
-                cybersecurity audits conducted by the New York Department of Financial Services.
+                XDEXT Trading will be audited by Certik.
                 <span class="underline">Learn more</span> about our commitment to security.
               </p>
             </LandingListItem>
@@ -245,7 +244,7 @@
             <LandingListItem title="SOC Certifications">
               <p class="text-sm text-gray-700 leading-relaxed">
                 XDEXT is <span class="underline">SOC 1 Type 2</span> and
-                <span class="underline">SOC 2 Type 2</span> compliant. We are the world’s first cryptocurrency exchange
+                <span class="underline">SOC 2 Type 2</span> compliant. We are the world’s first cryptocurrency DEFI exchange
                 and custodian to complete these exams.
               </p>
             </LandingListItem>
@@ -280,7 +279,7 @@
     </section>
 
     <!-- FAQ section -->
-    <section class="w-full my-24">
+    <!-- <section class="w-full my-24">
       <BaseSection>
         <div data-aos="fade-right" data-aos-delay="150" class="col-span-12 lg:col-span-6">
           <div class="w-full">
@@ -296,7 +295,7 @@
           </ul>
         </div>
       </BaseSection>
-    </section>
+    </section> -->
 
     <div class="w-full my-10 flex justify-center">
       <a
@@ -470,21 +469,21 @@ export default {
       steps: [
         {
           img: 'sign-up.png',
-          title: 'Sign Up',
+          title: 'Create Wallet',
           description:
-            'Sign up for your free XDEXT Wallet on web, iOS or Android and follow our easy process to set up your profile',
+            'Create a wallet buy using Metamask or Trust',
         },
         {
           img: 'fund.png',
           title: 'Fund',
           description:
-            'Choose your preferred payment method such as bank transfer or credit card to top up your XDEXT Wallet',
+            'Choose your preferred payment method such as bank transfer or credit card to top up your Wallet',
         },
         {
           img: 'buy-crypto.png',
-          title: 'Buy Crypto',
+          title: 'Trading Crypto',
           description:
-            'Buy Bitcoin or Ethereum, then securely store it in your Wallet or send it on easily to your friends anywhere',
+            'Buy Bitcoin, Ethereum or any tokens, then securely store it in your Wallet',
         },
       ],
     }
